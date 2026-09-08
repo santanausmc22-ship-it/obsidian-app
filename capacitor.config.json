@@ -1,0 +1,12 @@
+{
+  "appId": "org.obsidianmusic.app",
+  "appName": "Obsidian",
+  "webDir": "www",
+  "backgroundColor": "#050403",
+  "ios": {
+    "backgroundColor": "#050403"
+  },
+  "android": {
+    "backgroundColor": "#050403"
+  }
+}
